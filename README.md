@@ -1,7 +1,7 @@
 # CodeTalk 🤖
 
-[![Streamlit App](/screenshot1.png)](https://codetalk.streamlit.app)
-[![Streamlit App](/screenshot2.png)](https://codetalk.streamlit.app)
+[!(/screenshot1.png)]
+[!(/screenshot2.png)]
 
 CodeTalk is an interactive code analysis and error explanation tool powered by LLM technology. It helps developers understand, debug, and improve their code through intelligent analysis and natural language conversation.
 
